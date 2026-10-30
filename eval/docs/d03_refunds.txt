@@ -1,0 +1,9 @@
+SYNTHETIC TEST DOCUMENT. Fictional company, invented for CiteCheck testing.
+
+Northwind Refund Policy
+
+The refund window is 14 days.
+Refunds are paid to the original payment method.
+Refunds are processed within 5 working days.
+Opened software cannot be returned.
+Gift cards are not refundable.

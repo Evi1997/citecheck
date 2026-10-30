@@ -1,0 +1,9 @@
+SYNTHETIC TEST DOCUMENT. Fictional company, invented for CiteCheck testing.
+
+Northwind Pricing
+
+The Basic plan costs £20 per month.
+The Premium plan costs £35 per month.
+The Premium plan includes phone support.
+Annual billing gives a discount of 15%.
+Prices include VAT.

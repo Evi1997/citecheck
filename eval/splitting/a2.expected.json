@@ -1,0 +1,9 @@
+{
+  "note": "SYNTHETIC. Tests abbreviations (Dr., U.S.), a decimal and a semicolon.",
+  "claims": [
+    {"line": 1, "text": "Northwind was founded by Dr. Maria Okafor in Leeds."},
+    {"line": 1, "text": "Revenue reached £4.2 million in 2024."},
+    {"line": 1, "text": "The U.S. market is not served yet"},
+    {"line": 1, "text": "expansion is planned for 2026."}
+  ]
+}

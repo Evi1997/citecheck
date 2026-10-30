@@ -1,0 +1,8 @@
+SYNTHETIC TEST DOCUMENT. Fictional company, invented for CiteCheck testing.
+
+Cancelling a Plan
+
+Customers can cancel their plan only if they give 30 days' notice.
+Annual plans cannot be cancelled after 14 days.
+A cancellation fee of £10 applies to monthly plans.
+Cancelled accounts are deleted after 90 days.

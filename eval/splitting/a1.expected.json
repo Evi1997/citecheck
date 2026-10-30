@@ -1,0 +1,8 @@
+{
+  "note": "SYNTHETIC. Claims a person would extract. Not yet reviewed by the owner.",
+  "claims": [
+    {"line": 2, "text": "The refund window is 14 days."},
+    {"line": 3, "text": "Refunds are paid to the original payment method."},
+    {"line": 4, "text": "Gift cards are not refundable."}
+  ]
+}

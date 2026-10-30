@@ -1,0 +1,31 @@
+# Kept locally, never published -------------------------------------------
+
+# The held-out test subset was exposed during development, so it can't serve
+# as independent evidence. Freeze records belong with it.
+/eval/data/test.jsonl
+/eval/FROZEN*.json
+
+# Internal planning documents.
+/PRD.md
+/DESIGN.md
+/TECH_PLAN.md
+
+# Generated files ------------------------------------------------------------
+
+# Reports and evaluation results contain document text.
+citecheck-report/
+eval-results*.json
+report*.md
+report*.json
+
+# Python caches and local environments.
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# Editor and OS files.
+.DS_Store
+.idea/
+.vscode/

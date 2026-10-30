@@ -1,0 +1,9 @@
+SYNTHETIC TEST DOCUMENT. Fictional company, invented for CiteCheck testing.
+
+About Northwind
+
+Northwind Appliances was founded in 2011 in Leeds.
+The company employs 240 people.
+Northwind sells kettles, toasters and coffee machines.
+Maria Okafor became chief executive in 2019.
+Northwind opened a second warehouse in Bristol in 2021.

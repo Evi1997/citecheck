@@ -1,0 +1,13 @@
+SYNTHETIC TEST DOCUMENT. Fictional company, invented for CiteCheck testing.
+
+Frequently Asked Questions
+
+Suppose a kettle stops working after three years. Northwind would offer a discounted replacement.
+
+If a kettle fails within 30 days, Northwind sends a new kettle.
+
+Myth: Northwind products are made in Germany. Northwind products are assembled in Poland.
+
+Is the warranty transferable? The warranty is not transferable.
+
+Phone support is available from 9am to 6pm on weekdays.

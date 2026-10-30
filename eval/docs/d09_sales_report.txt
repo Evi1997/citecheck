@@ -1,0 +1,9 @@
+SYNTHETIC TEST DOCUMENT. Fictional company, invented for CiteCheck testing.
+
+Sales Report 2024
+
+Sales rose by 12% in 2024.
+Kettle sales fell in the second half of the year.
+Online orders made up 60% of revenue.
+Northwind opened 3 new stores in 2024.
+Revenue reached £4.2 million.

@@ -1,0 +1,9 @@
+{
+  "note": "SYNTHETIC. Tests a semicolon, a table, a code block and e.g.",
+  "claims": [
+    {"line": 1, "text": "Northwind's Premium plan includes phone support"},
+    {"line": 1, "text": "the Basic plan does not."},
+    {"line": 11, "text": "Prices include VAT, e.g. on kettles and toasters."},
+    {"line": 11, "text": "Annual billing gives a discount of 15%."}
+  ]
+}

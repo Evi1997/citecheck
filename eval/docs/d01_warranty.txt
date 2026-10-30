@@ -1,0 +1,9 @@
+SYNTHETIC TEST DOCUMENT. Fictional company, invented for CiteCheck testing.
+
+Northwind Warranty Policy
+
+The warranty covers accidental damage for two years from purchase.
+The warranty does not cover water damage.
+Batteries are covered for 12 months.
+Repairs under warranty are free of charge in the United Kingdom.
+Customers may be asked to provide proof of purchase.

@@ -1,0 +1,23 @@
+# Docker build context. Images contain only the application, the demo, the
+# tests and the development evaluation data (see Dockerfile). Git exclusions
+# are in .gitignore; this file also protects local builds.
+
+# The held-out test subset and freeze records are never copied into an image.
+eval/data/test.jsonl
+eval/FROZEN*.json
+
+# Generated files and reports (reports contain document text).
+**/__pycache__
+**/*.py[cod]
+citecheck-report/
+**/eval-results*.json
+.DS_Store
+.git/
+
+# Documentation and tooling not needed in an image.
+*.md
+!eval/GUIDE.md
+bin/
+Dockerfile
+.dockerignore
+.gitignore

@@ -1,0 +1,29 @@
+{
+  "dataset_version": "v1-draft",
+  "created": "2026-10-23",
+  "synthetic": true,
+  "description": "SYNTHETIC evaluation set for CiteCheck V0.1. All documents describe a fictional company (Northwind) and were drafted by AI. No real or private data.",
+  "labelled_by": "AI draft (Ann orchestrator), 2026-10-23",
+  "review_status": "unreviewed",
+  "reviewers": [
+    {
+      "role": "first human reviewer",
+      "who": "project owner",
+      "status": "not started",
+      "cases_reviewed": 0
+    }
+  ],
+  "second_reviewer": "None. Optional for this prototype. Do not describe the labels as double-labelled.",
+  "disagreements": [],
+  "frozen": false,
+  "counts": {
+    "verdict_cases": 60,
+    "dev": 20,
+    "test": 40,
+    "per_label": {"SUPPORTED": 20, "CONTRADICTED": 20, "INSUFFICIENT_EVIDENCE": 20},
+    "splitting_answers": 5,
+    "splitting_gold_claims": 18
+  },
+  "validated": false,
+  "validation_rule": "Labels may be described as validated only after every case has review_status \"reviewed\" by a named human reviewer."
+}

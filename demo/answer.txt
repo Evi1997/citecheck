@@ -1,0 +1,9 @@
+Here is what the library guide says:
+- The library opens at 9am on weekdays.
+- Loans last 14 days.
+- Overdue books are charged a fine.
+- Members can borrow up to 12 books at a time.
+- Study rooms cost £5 per hour.
+- The library has a rooftop garden and a cafe.
+
+Hope this helps!

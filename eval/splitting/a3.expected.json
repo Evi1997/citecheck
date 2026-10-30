@@ -1,0 +1,7 @@
+{
+  "note": "SYNTHETIC. Tests a heading, numbered list, bold, citation marks and a link. The link line and the sources line are not claims.",
+  "claims": [
+    {"line": 3, "text": "Northwind sells kettles, toasters and coffee machines."},
+    {"line": 4, "text": "The company employs 240 people."}
+  ]
+}

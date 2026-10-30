@@ -1,0 +1,9 @@
+SYNTHETIC TEST DOCUMENT. Fictional company, invented for CiteCheck testing.
+
+Northwind Shipping
+
+Shipping is free on orders over £50 in the United Kingdom.
+Shipping is not free on international orders.
+Standard delivery takes 3 working days.
+Express delivery costs £9.
+Orders placed before 2pm are dispatched the same day.

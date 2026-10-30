@@ -1,0 +1,5 @@
+Here is a summary of the Northwind refund policy:
+- The refund window is 14 days.
+- Refunds are paid to the original payment method.
+- Gift cards are not refundable.
+Let me know if you need anything else!

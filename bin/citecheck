@@ -1,0 +1,5 @@
+#!/bin/sh
+# Run CiteCheck from this folder without installing it.
+# Usage: sh bin/citecheck check answer.txt docs/
+DIR="$(cd "$(dirname "$0")/.." && pwd)"
+PYTHONPATH="$DIR${PYTHONPATH:+:$PYTHONPATH}" exec python3 -m citecheck "$@"

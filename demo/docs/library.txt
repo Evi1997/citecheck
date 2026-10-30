@@ -1,0 +1,16 @@
+DEMO DOCUMENT. A fictional library, written for the CiteCheck demo.
+
+Opening hours
+
+The library opens at 9am on weekdays.
+The library closes at 6pm on Saturdays.
+
+Borrowing
+
+Members can borrow up to 8 books at a time.
+Loans last 21 days.
+Overdue books are not charged a fine.
+
+Room bookings (2019)
+
+Study rooms cost £5 per hour.

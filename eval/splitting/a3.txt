@@ -1,0 +1,7 @@
+## Key facts
+
+1. **Northwind** sells kettles, toasters and coffee machines [1].
+2. The company employs 240 people [2].
+3. Read more on [the about page](https://example.com/about).
+
+Sources: [1] Company site. [2] Annual report.

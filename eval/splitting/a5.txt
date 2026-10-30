@@ -1,0 +1,11 @@
+Northwind's Premium plan includes phone support; the Basic plan does not.
+
+| Plan | Price |
+|------|-------|
+| Basic | £20 |
+
+```text
+print("not a claim")
+```
+
+Prices include VAT, e.g. on kettles and toasters. Annual billing gives a discount of 15%.

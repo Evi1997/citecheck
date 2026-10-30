@@ -1,0 +1,10 @@
+{
+  "note": "SYNTHETIC. Tests a question, an initial (M.) and a quotation ending in a full stop.",
+  "claims": [
+    {"line": 1, "text": "Shipping is not free on international orders."},
+    {"line": 1, "text": "Express delivery costs £9."},
+    {"line": 2, "text": "The chief executive, M. Okafor, joined in 2019."},
+    {"line": 2, "text": "She said \"the company will grow.\""},
+    {"line": 2, "text": "Sales rose by 12% in 2024."}
+  ]
+}
